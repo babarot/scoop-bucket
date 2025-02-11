@@ -1,0 +1,22 @@
+{
+  "version": "1.3.2",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/babarot/gomi/releases/download/v1.3.2/gomi_Windows_x86_64.zip",
+      "bin": [
+        "gomi.exe"
+      ],
+      "hash": "c76443aff45a196b5beb6b3f74876d6c2b851324e83f85c9e1f633b36ffe12f7"
+    },
+    "arm64": {
+      "url": "https://github.com/babarot/gomi/releases/download/v1.3.2/gomi_Windows_arm64.zip",
+      "bin": [
+        "gomi.exe"
+      ],
+      "hash": "e3112e4b6e4f37990750d06f68d60749315f4e1ebec8e1f29364cddbc49e93c5"
+    }
+  },
+  "homepage": "https://gomi.dev/",
+  "license": "MIT",
+  "description": "🗑️ Your UNIX rm command with a safety net!"
+}
