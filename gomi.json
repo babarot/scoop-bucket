@@ -1,22 +1,22 @@
 {
-  "version": "1.3.2",
-  "architecture": {
-    "64bit": {
-      "url": "https://github.com/babarot/gomi/releases/download/v1.3.2/gomi_Windows_x86_64.zip",
-      "bin": [
-        "gomi.exe"
-      ],
-      "hash": "c76443aff45a196b5beb6b3f74876d6c2b851324e83f85c9e1f633b36ffe12f7"
+    "version": "1.4.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/babarot/gomi/releases/download/v1.4.2/gomi_Windows_x86_64.zip",
+            "bin": [
+                "gomi.exe"
+            ],
+            "hash": "651aad1200a9eb9f363088ce4df74f1d397b5f65e3842516e1597af67ca2a2a6"
+        },
+        "arm64": {
+            "url": "https://github.com/babarot/gomi/releases/download/v1.4.2/gomi_Windows_arm64.zip",
+            "bin": [
+                "gomi.exe"
+            ],
+            "hash": "93873c5537d931c5e5b3142df4574a97b652e4b62dcf254b8c9d303b74f338b3"
+        }
     },
-    "arm64": {
-      "url": "https://github.com/babarot/gomi/releases/download/v1.3.2/gomi_Windows_arm64.zip",
-      "bin": [
-        "gomi.exe"
-      ],
-      "hash": "e3112e4b6e4f37990750d06f68d60749315f4e1ebec8e1f29364cddbc49e93c5"
-    }
-  },
-  "homepage": "https://gomi.dev/",
-  "license": "MIT",
-  "description": "🗑️ Your UNIX rm command with a safety net!"
+    "homepage": "https://gomi.dev/",
+    "license": "MIT",
+    "description": "A Safer Alternative to the UNIX rm Command!"
 }
