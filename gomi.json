@@ -1,19 +1,19 @@
 {
-    "version": "1.8.0",
+    "version": "1.9.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/babarot/gomi/releases/download/v1.8.0/gomi_Windows_x86_64.zip",
+            "url": "https://github.com/babarot/gomi/releases/download/v1.9.0/gomi_Windows_x86_64.zip",
             "bin": [
                 "gomi.exe"
             ],
-            "hash": "8af689df87b6123719113132126dbe77cea7fdee7a1f41c2b3a7115f592a9f1a"
+            "hash": "35f0972af43d1a643ac5a294229c7fb0d0b5052aa15b7f157a0e97331aa2497d"
         },
         "arm64": {
-            "url": "https://github.com/babarot/gomi/releases/download/v1.8.0/gomi_Windows_arm64.zip",
+            "url": "https://github.com/babarot/gomi/releases/download/v1.9.0/gomi_Windows_arm64.zip",
             "bin": [
                 "gomi.exe"
             ],
-            "hash": "76efb131f7b14193222634cb4eceebd2eafc0f65875374a2ba39d522c460a0c2"
+            "hash": "38f4db3673aa9fc7ed0ff46e82ac16ceac04bcc57d1b31642c21b81ffcb57102"
         }
     },
     "homepage": "https://gomi.dev/",
